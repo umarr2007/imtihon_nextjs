@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import { Modal, Box, TextField, Button, Typography } from "@mui/material";
 import { ToastContainer, toast } from "react-toastify";
